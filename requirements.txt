@@ -1,0 +1,6 @@
+# You need at least python 3.6 and the following packages to have a working example
+
+numpy==1.14
+pandas==0.23.4
+rpy2==2.8.5
+tzlocal
